@@ -23,7 +23,6 @@ Attention, pour ce dernier choix, vous ne pouvez pas diviser par un nombre néga
 S'assurer que node est bien installé pour le debug de la calculatrice
 Il faut cloner le repo
 Puis se positionner dans votre dossier
-S'assurer que node est bien installé pour le debug de la calculatrice
 ```
 node -v
 $ git clone https://github.com/Cahuete0512/calculatrice_javascript.git
